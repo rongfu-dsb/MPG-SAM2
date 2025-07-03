@@ -1,0 +1,1 @@
+bash ./scripts/dist_train_test_mevis.sh ./work_dir --num_frames=8 --ngpu=8

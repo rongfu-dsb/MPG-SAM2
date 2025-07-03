@@ -1,0 +1,1 @@
+bash ./scripts/dist_pre_fine_ytvos.sh ./work_dir ./work_dir/pretrain/evf --num_frames=5 --ngpu=8
