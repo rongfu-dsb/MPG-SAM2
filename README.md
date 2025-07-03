@@ -15,7 +15,7 @@ Overview of MPG-SAM 2:
 - [Model](#model)
 - [Installation](#installation)
 - [Prepare](#prepare)
-- [Training & Inference](#training-inference)
+- [Training & Inference](#training--inference)
 - [Acknowledgement](#acknowledgement)
 - [Citation](#citation)
 
