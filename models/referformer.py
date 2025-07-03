@@ -12,7 +12,6 @@ from util.misc import (NestedTensor, nested_tensor_from_tensor_list,
 
 from .position_encoding import PositionEmbeddingSine1D
 from .backbone import build_backbone
-from .deformable_transformer import build_deforamble_transformer
 from .segmentation import CrossModalFPNDecoder, VisionLanguageFusionModule
 from .matcher import build_matcher
 from .criterion import SetCriterion
