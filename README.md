@@ -4,7 +4,7 @@ Paper: [MPG-SAM 2](https://arxiv.org/abs/2501.13667)
 
 Overview of MPG-SAM 2:
 
-![framework](picture\framework.jpg)
+![framework](picture/framework.jpg)
 
 ## News
 
@@ -94,7 +94,7 @@ The inference results from the Ref-Youtube-VOS and MeViS datasets are submitted 
 
 ## Acknowledgement
 
-We borrow some code from the following works and would like to express our gratitude to them: [SAM2](facebookresearch/sam2: The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.), [EVF-SAM](https://github.com/hustvl/EVF-SAM), [ReferFormer](https://github.com/wjn922/ReferFormer), [BEiT-3](https://github.com/microsoft/unilm/tree/master/beit3).
+We borrow some code from the following works and would like to express our gratitude to them: [SAM2](https://github.com/facebookresearch/sam2), [EVF-SAM](https://github.com/hustvl/EVF-SAM), [ReferFormer](https://github.com/wjn922/ReferFormer), [BEiT-3](https://github.com/microsoft/unilm/tree/master/beit3).
 
 ## Citation
 
