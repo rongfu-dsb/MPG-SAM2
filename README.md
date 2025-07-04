@@ -113,5 +113,3 @@ We borrow some code from the following works and would like to express our grati
   year={2025}
 }
 ```
-
-<br>
