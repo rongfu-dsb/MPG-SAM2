@@ -1,8 +1,8 @@
 # MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation
 
-<p align="center">**ICCV 2025**</p>
+<h2 align="center">ICCV 2025</h2>
 
-Paper: [MPG-SAM 2](https://arxiv.org/abs/2501.13667)
+<p align="center">Paper: <a href="https://arxiv.org/abs/2501.13667">MPG-SAM 2</a></p>
 
 ![](picture/visualize.jpg)
 
