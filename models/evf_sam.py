@@ -500,4 +500,4 @@ class EvfSamModel(PreTrainedModel):
 
 
 AutoConfig.register("evf", EvfConfig)
-AutoModelForCausalLM.register(EvfConfig, EvfSamModel) 
+AutoModelForCausalLM.register(EvfConfig, EvfSamModel)
