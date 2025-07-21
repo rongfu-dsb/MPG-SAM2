@@ -3,7 +3,6 @@ import torchvision
 
 from .ytvos import build as build_ytvos
 from .davis import build as build_davis
-from .jhmdb import build as build_jhmdb
 from .refexp import build as build_refexp
 from .concat_dataset import build as build_joint
 from .mevis import build as build_mevis
