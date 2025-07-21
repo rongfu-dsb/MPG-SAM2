@@ -244,5 +244,3 @@ if __name__ == '__main__':
         Path(args.output_dir).mkdir(parents=True, exist_ok=True)
     main(args)
 
-
-
