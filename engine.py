@@ -243,11 +243,3 @@ def evaluate_a2d(model, data_loader, postprocessor, device, args):
     # sync all processes before starting a new epoch or exiting
     dist.barrier()
     return eval_metrics
-
-
-
-
-
-
-
-
