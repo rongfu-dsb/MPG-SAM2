@@ -6,12 +6,15 @@
   </a>
 </div>
 
-
 ![](picture/visualization.jpg)
 
 ## News
 
 [June 26th, 2025] 🔥MPG-SAM 2 has been accepted by ICCV 2025! We have open-sourced the code and model.
+
+## Notice
+
+[August 9th, 2025] The **Figure 2** in both the ICCV camera-ready version and earlier arXiv versions contains errors. Please refer to the **latest version on arXiv** for the correct diagram.
 
 ## Contents
 
